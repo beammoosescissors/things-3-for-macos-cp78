@@ -1,4 +1,4 @@
-
+Enhance Fantastical for macOS with Fantastical for macOS exclusive Addon - goal tracking and markdown support, the #1 addon. Includes goal tracking and markdown support for a
 
 
 
